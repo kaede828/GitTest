@@ -2,5 +2,4 @@
 {
 	printf("testtest");
 	わたし;
-
 }
